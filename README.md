@@ -50,3 +50,4 @@ A modern web application for monitoring and managing IoT devices with time-serie
    ```bash
    git clone https://github.com/BasharST99/iot-dashboard.git
    cd iot-dashboard
+   - docker-compose up --build
