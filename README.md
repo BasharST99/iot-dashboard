@@ -48,5 +48,5 @@ A modern web application for monitoring and managing IoT devices with time-serie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iot-dashboard.git
+   git clone https://github.com/BasharST99/iot-dashboard.git
    cd iot-dashboard
