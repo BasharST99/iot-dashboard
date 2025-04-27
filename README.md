@@ -31,6 +31,7 @@ A modern web application for monitoring and managing IoT devices with time-serie
   - Node.js with Express
   - PostgreSQL for data storage
   - RESTful API design
+  - JEST for Backend Test
 - **DevOps**
   - Docker for containerization
   - Docker Compose for service orchestration
